@@ -38,15 +38,16 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    border-radius: 4px;
 }
 
 .destination:hover h2{
-    transform: rotate(0);
+    transform: rotate(0deg);
 }
 h2 {
     margin: 0;
     transform: rotate(-45deg);
-    transition: transform 0.2s;
+    transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
 }
 
@@ -56,4 +57,13 @@ h2 {
 
 #paris {
     background-color: #d32f2f;
+
+}
+
+#cairo {
+    background-color: rgb(128, 55, 196);
+}
+
+#roma{
+    background-color: rgb(207, 207, 89);
 }
