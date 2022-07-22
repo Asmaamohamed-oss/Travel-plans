@@ -18,6 +18,12 @@ body {
     flex-direction: column;
 }
 
+h1{
+    background-color: rgb(233, 233, 233);
+    text-align: center;
+    padding: 8px 0;
+}
+
 .container {
     margin: auto;
     padding: 1em;
