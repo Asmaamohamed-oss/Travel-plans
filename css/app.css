@@ -83,7 +83,15 @@ h2 {
 }
 
 #roma{
-    background-color: rgb(207, 207, 89);
+    background-color: rgb(89, 207, 172);
+}
+
+#la{
+    background-color: orangered;
+}
+
+#alex{
+    background-color: deepskyblue;
 }
 
 ul{
