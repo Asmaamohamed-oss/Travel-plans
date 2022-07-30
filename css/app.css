@@ -97,6 +97,15 @@ h2 {
     background-color: darkred;
 }
 
+#huston{
+    background-color: rgb(157, 42, 192);
+}
+#vagas{
+    background-color: fuchsia;
+}
+#san{
+    background-color: rgb(238, 88, 238);
+}
 ul{
     list-style: none;
 }
